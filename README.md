@@ -467,12 +467,5 @@ This project is proprietary software. All rights reserved.
 - Reports
 - Settings
 
-## Contact
-
-For support and inquiries:
-- Email: support@company.com
-- Phone: +1-234-567-8900
-
----
 
 **Built with ❤️ using Python, Flask, and AI**
